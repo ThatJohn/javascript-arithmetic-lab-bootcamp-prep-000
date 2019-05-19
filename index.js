@@ -18,6 +18,10 @@ function inc(n){
   return ++n;
 }
 
+function dec(n){
+  return --n;
+}
+
 function maneInt(n){
   return parseInt(n);
 }
